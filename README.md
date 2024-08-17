@@ -1,7 +1,4 @@
-# Fresh project
-
-Demo of [Deno KV OAuth](https://deno.land/x/deno_kv_oauth) working in Fresh
-using the https://github.com/denoland/deno_kv_oauth#getting-started-with-fresh.
+# Fresh Project
 
 Your new Fresh project is ready to go. You can follow the Fresh "Getting
 Started" guide here: https://fresh.deno.dev/docs/getting-started
